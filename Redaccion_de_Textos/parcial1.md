@@ -137,7 +137,7 @@ Idenficamos la idea principal:
 
 # Tabla comparativa de tipos de texto
 
-| Texto Narrativo | Texto Descriptivo | Texto Dialogado | Texto Expositivo | Texto Argumentativo
+jdpoccorie | Texto Narrativo | Texto Descriptivo | Texto Dialogado | Texto Expositivo | Texto Argumentativo
 ---- | ---- | ---- | ---- | ---- | ----
 Intención Comunicativa | Relata hechos que suceden a unos personajes | Cuenta como son los objetos, personas, etc | Reproduce literalmente las palabras de los personajes | Explica de forma objetiva unos hechos | Defiende ideas y expresa opiniones
 Responden | ¿Qué pasa? | ¿Cómo es? | ¿Qué dicen? | ¿Por qué es asi? | ¿Qué pienso? ¿Qué te parece?
@@ -183,7 +183,7 @@ Tenemos:
 * tenemos conectores:
 	* **concesivas**: aunque, por mas que, si bien, aun cuando, pese a (que), de todas maneras, indican restricción 
 	* **copulativas**: y, e, ni, que
-	* *disyuntivas**: o, u
+	* **disyuntivas**: o, u
 	* **resumen o conclusión**: finalmente, en resumen, en sintesis, en definitiva, en conclusión
 	* **condicionantes**: si, en caso de, siempre que, a menos que, a no ser que
 	* **temporales**
@@ -207,7 +207,7 @@ Marcan los accidentes de los textos en prosa como en:
 * la estructura, 
 * las conexiones entre las frases, 
 * la funcion de un fragmento
-* lsd oraciones
+* las oraciones
 
 Ayudan a comprender los textos
 
